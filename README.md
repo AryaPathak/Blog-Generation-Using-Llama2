@@ -1,4 +1,4 @@
-Blog Generation Llama2
+Blog Generation with Llama2
 
 
 Download Llama2 model from https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
