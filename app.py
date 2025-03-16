@@ -56,7 +56,7 @@ with col2:
 submit=st.button("Generate")
 
 
-#Final response
+#Final response to frontend
 if submit:
     st.write(getLlamaResponce(input_text,no_words,blog_style))
     
